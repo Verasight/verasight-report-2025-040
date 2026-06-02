@@ -1,0 +1,164 @@
+question_id,option_id,option_label,is_missing
+2024-054_q40,1,Yes,false
+2024-054_q40,2,No,false
+2024-054_q40,3,Prefer not to answer,false
+2025-040_q_10,1,Strongly agree,false
+2025-040_q_10,2,Somewhat agree,false
+2025-040_q_10,3,Somewhat disagree,false
+2025-040_q_10,4,Strongly disagree,false
+2025-040_q_11,1,Strongly agree,false
+2025-040_q_11,2,Somewhat agree,false
+2025-040_q_11,3,Somewhat disagree,false
+2025-040_q_11,4,Strongly disagree,false
+2025-040_q_12,1,Strongly disagree,false
+2025-040_q_12,2,Disagree,false
+2025-040_q_12,3,Neither agree nor disagree,false
+2025-040_q_12,4,Agree,false
+2025-040_q_12,5,Strongly Agree,false
+2025-040_q_12,6,Don’t Know,false
+2025-040_q_13,1,Strongly agree,false
+2025-040_q_13,2,Somewhat agree,false
+2025-040_q_13,3,Neither agree nor disagree,false
+2025-040_q_13,4,Somewhat disagree,false
+2025-040_q_13,5,Strongly disagree,false
+2025-040_q_13,6,Don’t know,false
+2025-040_q_14,1,Favor,false
+2025-040_q_14,2,Oppose,false
+2025-040_q_15,1,Not a threat at all,false
+2025-040_q_15,2,A minor threat,false
+2025-040_q_15,3,A moderate threat,false
+2025-040_q_15,4,A significant threat,false
+2025-040_q_15,5,An extreme threat,false
+2025-040_q_16,1,Strongly disagree,false
+2025-040_q_16,2,Somewhat disagree,false
+2025-040_q_16,3,Neither agree or disagree,false
+2025-040_q_16,4,Somewhat agree,false
+2025-040_q_16,5,Strongly agree,false
+2025-040_q_17,1,Very important,false
+2025-040_q_17,2,Somewhat important,false
+2025-040_q_17,3,Not very important,false
+2025-040_q_17,4,Not important at all,false
+2025-040_q_18,1,I would prefer it if elected officials I agree with were civil and respectful to those I disagree with,false
+2025-040_q_18,2,I would prefer it if elected officials I agree with were uncivil and attack those I disagree with,false
+2025-040_q_18,3,There are no elected officials I agree with,false
+2025-040_q_18,4,I’m not sure,false
+2025-040_q_19,1,Much less free than others,false
+2025-040_q_19,2,Somewhat less free than others,false
+2025-040_q_19,3,About as free as others,false
+2025-040_q_19,4,Somewhat more free than others,false
+2025-040_q_19,5,Much more free than others,false
+2025-040_q_2,1,Strongly disagree,false
+2025-040_q_2,2,Somewhat disagree,false
+2025-040_q_2,3,Neither agree or disagree,false
+2025-040_q_2,4,Somewhat agree,false
+2025-040_q_2,5,Strongly agree,false
+2025-040_q_20,1,Strongly agree,false
+2025-040_q_20,2,Somewhat agree,false
+2025-040_q_20,3,Neither agree nor disagree,false
+2025-040_q_20,4,Somewhat disagree,false
+2025-040_q_20,5,Strongly disagree,false
+2025-040_q_21,1,Strongly disagree,false
+2025-040_q_21,2,Disagree,false
+2025-040_q_21,3,Neither agree nor disagree,false
+2025-040_q_21,4,Agree,false
+2025-040_q_21,5,Strongly agree,false
+2025-040_q_22,1,One who opposes cuts to Medicaid and Medicare that Republicans are using to pay for tax cuts to billionaires,false
+2025-040_q_22,2,One who opposes cuts to Medicaid and Medicare and support cutting taxes for the middle class,false
+2025-040_q_22,3,I would not be willing to support a Democrat,false
+2025-040_q_23,1,Strongly support,false
+2025-040_q_23,2,Somewhat support,false
+2025-040_q_23,3,Somewhat oppose,false
+2025-040_q_23,4,Strongly oppose,false
+2025-040_q_24,1,Speaker of the House,false
+2025-040_q_24,2,President Pro Tempore of the Senate,false
+2025-040_q_24,3,One of the Cabinet Secretaries,false
+2025-040_q_24,4,None of the above,false
+2025-040_q_25,1,- Selected Choice More information on Presidential candidates,false
+2025-040_q_25,2,- Selected Choice More information on state candidates & issues,false
+2025-040_q_25,3,- Selected Choice More information on local candidates & issues,false
+2025-040_q_25,4,- Selected Choice Information on how to vote,false
+2025-040_q_25,5,- Selected Choice Information on how other people like you were voting,false
+2025-040_q_25,6,- Selected Choice Information on how your vote would impact the issues you care about,false
+2025-040_q_25,7,- Selected Choice Other,false
+2025-040_q_25,8,- Selected Choice I didn’t need more information before voting,false
+2025-040_q_26,1,Extremely important,false
+2025-040_q_26,2,Very important,false
+2025-040_q_26,3,Moderately important,false
+2025-040_q_26,4,Slightly important,false
+2025-040_q_26,5,Not important at all,false
+2025-040_q_26,6,Don’t know,false
+2025-040_q_27,1,Catholics,false
+2025-040_q_27,2,Born-again Christians (Evangelicals),false
+2025-040_q_27,3,Seventh-Day Adventists,false
+2025-040_q_27,4,Mormons (LDS),false
+2025-040_q_27,5,Muslims,false
+2025-040_q_27,6,Any religious person,false
+2025-040_q_27,7,None of the above,false
+2025-040_q_28,1,Extremely familiar,false
+2025-040_q_28,2,Very familiar,false
+2025-040_q_28,3,Somewhat familiar,false
+2025-040_q_28,4,Slightly familiar,false
+2025-040_q_28,5,Not at all familiar,false
+2025-040_q_29,1,While relaxing at home,false
+2025-040_q_29,2,"While doing household chores, like cooking, cleaning, washing",false
+2025-040_q_29,3,While driving in a car,false
+2025-040_q_29,4,While commuting with public transport,false
+2025-040_q_29,5,While staying in public places,false
+2025-040_q_29,6,None of the above,false
+2025-040_q_3,1,Yes,false
+2025-040_q_3,2,No,false
+2025-040_q_3,3,Not Sure,false
+2025-040_q_30,1,Yes,false
+2025-040_q_30,2,No,false
+2025-040_q_30,3,Maybe,false
+2025-040_q_31,1,Yes,false
+2025-040_q_31,2,No,false
+2025-040_q_32,1,New York City,false
+2025-040_q_32,2,Philadelphia,false
+2025-040_q_32,3,Chicago,false
+2025-040_q_32,4,New Haven,false
+2025-040_q_32,5,Italy,false
+2025-040_q_33,1,Minnesota,false
+2025-040_q_33,2,Wisconsin,false
+2025-040_q_33,3,Iowa,false
+2025-040_q_33,4,All are equally good,false
+2025-040_q_33,5,I don’t know,false
+2025-040_q_34,1,Mostly real,false
+2025-040_q_34,2,Often real,false
+2025-040_q_34,3,"About half real, half fake",false
+2025-040_q_34,4,Often fake,false
+2025-040_q_34,5,Mostly fake,false
+2025-040_q_35,1,Always gave my own true views,false
+2025-040_q_35,2,Almost always gave my own true views,false
+2025-040_q_35,3,Sometimes roleplayed,false
+2025-040_q_35,4,Mostly roleplayed,false
+2025-040_q_35,5,Always roleplayed,false
+2025-040_q_4,1,Extremely important,false
+2025-040_q_4,2,Very important,false
+2025-040_q_4,3,Somewhat important,false
+2025-040_q_4,4,Low importance,false
+2025-040_q_4,5,Not at all important,false
+2025-040_q_5,1,"Yes, with nearly all families",false
+2025-040_q_5,2,"Yes, with most families",false
+2025-040_q_5,3,"Yes, with a few families",false
+2025-040_q_5,4,My state should not use prevention services,false
+2025-040_q_6,1,"Yes, but only with parental permission",false
+2025-040_q_6,2,"Yes, without parental permission",false
+2025-040_q_6,3,No,false
+2025-040_q_7,1,The American Dental Association (ADA),false
+2025-040_q_7,2,"Robert F. Kennedy, Jr. (U.S. Secretary of Health and Human Services)",false
+2025-040_q_7,3,U.S. Environmental Protection Agency (EPA),false
+2025-040_q_7,4,Centers for Disease Control and Prevention (CDC),false
+2025-040_q_7,5,Health-related podcast show/episodes,false
+2025-040_q_7,6,My state or local health department,false
+2025-040_q_7,7,"Social media posts by health/wellness influencers (e.g., Facebook, TikTok, X)",false
+2025-040_q_7,8,None of the above,false
+2025-040_q_8,1,"I have engaged in genealogy, and it changed how I thought about myself",false
+2025-040_q_8,2,"I have engaged in genealogy, and it did NOT change how I thought about myself",false
+2025-040_q_8,3,"I have NOT engaged in genealogy, and I think it would change how I think about myself",false
+2025-040_q_8,4,"I have NOT engaged in genealogy, and I do NOT think it would change how I think about myself",false
+2025-040_q_8,5,I have no interest in engaging in genealogy,false
+2025-040_q_9,1,Strongly agree,false
+2025-040_q_9,2,Somewhat agree,false
+2025-040_q_9,3,Somewhat disagree,false
+2025-040_q_9,4,Strongly disagree,false
