@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2025-040",
   "repo_name": "verasight-report-2025-040",
   "title": "Verasight AAPOR Omnibus Survey #2025-040",
@@ -18,7 +17,5 @@
   "modules": [
     "Verasight AAPOR Omnibus Survey #2024-054",
     "Verasight AAPOR Omnibus Survey #2025-040"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
